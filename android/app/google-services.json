@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "364235513223",
+    "project_id": "flutter-dwmgex",
+    "storage_bucket": "flutter-dwmgex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364235513223:android:2cb054196c9e35c121c722",
+        "android_client_info": {
+          "package_name": "com.flutter.dwmgex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364235513223-sh4or7jak2c8t8s1lph9grka2u7l6bl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMmoJZEkSdbsJiJz2qzMiPiq0xyCPPNCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364235513223-sh4or7jak2c8t8s1lph9grka2u7l6bl5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "364235513223-k927d6fvqkjg5irr74lnuil9a4b76kv9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutter.dwmgex"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
